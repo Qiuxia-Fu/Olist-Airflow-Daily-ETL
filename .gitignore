@@ -5,4 +5,6 @@ __pycache__/
 .DS_Store
 data/
 raw_source/
+airflow_venv/
+airflow_home/
 EOF
